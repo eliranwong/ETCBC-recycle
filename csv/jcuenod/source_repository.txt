@@ -1,0 +1,3 @@
+lxxlexeme.tf.txt and sdbh.tf.txt were downloaded from:
+
+https://github.com/jcuenod/biblecrawler-to-tf
