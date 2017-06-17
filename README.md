@@ -1,4 +1,4 @@
-# ETCBC-recycle
+# ETCBC-recycle [<a href="https://biblebento.com/" target="_blank">BibleBento.com</a>]
 ETCBC (version 4c) data formatted in csv files and SQLite3 for re-use or query
 
 original data sourced from https://github.com/ETCBC/text-fabric-data
